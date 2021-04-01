@@ -9,7 +9,7 @@
     "@babel/preset-es2015": "^7.0.0-beta.51",
     "@babel/preset-react": "^7.0.0-beta.51",
     "@freecodecamp/gatsby-source-filesystem": "^2.0.1-beta.3",
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "babel-eslint": "^7.2.3",
     "babel-loader": "^8.0.0-beta.0",
     "babel-preset-es2015": "^6.24.1",
